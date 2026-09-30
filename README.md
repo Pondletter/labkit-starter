@@ -48,3 +48,7 @@ python grade_family.py KXBTC15M --days 14
 Every one of them is a lesson from [the graveyard](https://pondletter.com/the-graveyard-forty-experiments-on-kalshi-and-the-one-that-survived/): about forty strategies tested on Kalshi with real money, almost all of which died, and the specific thing that killed each one. The lessons in order, free: [pondletter.com/before-you-build](https://pondletter.com/before-you-build/).
 
 Nothing here is advice. It is the record.
+
+## Building it with an AI assistant?
+
+Paste `KALSHI-CONTEXT.md` into Claude, ChatGPT or Cursor before it writes a line, then ask it to check its code against every item. It is the traps above as facts a model can verify, with no strategy in it.
